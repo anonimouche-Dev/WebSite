@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Bureau\Bureau\Dev\C#\git\Ultra_Website\Ultra_Website\bin\Release\net8.0\publish\Ultra_Website.exe
+C:\Users\natha\OneDrive\Bureau\Bureau\Dev\C#\git\Ultra_Website\Ultra_Website\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\natha\OneDrive\Bureau\Bureau\Dev\C#\git\Ultra_Website\Ultra_Website\bin\Release\net8.0\publish\appsettings.json
+C:\Users\natha\OneDrive\Bureau\Bureau\Dev\C#\git\Ultra_Website\Ultra_Website\bin\Release\net8.0\publish\Ultra_Website.dll
+C:\Users\natha\OneDrive\Bureau\Bureau\Dev\C#\git\Ultra_Website\Ultra_Website\bin\Release\net8.0\publish\Ultra_Website.deps.json
+C:\Users\natha\OneDrive\Bureau\Bureau\Dev\C#\git\Ultra_Website\Ultra_Website\bin\Release\net8.0\publish\Ultra_Website.runtimeconfig.json
+C:\Users\natha\OneDrive\Bureau\Bureau\Dev\C#\git\Ultra_Website\Ultra_Website\bin\Release\net8.0\publish\Ultra_Website.pdb

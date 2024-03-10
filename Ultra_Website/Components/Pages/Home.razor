@@ -1,0 +1,64 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+
+
+<h1>Welcome to the  Ultra_WebSite.</h1>
+<style>
+    .glitter {
+        position: relative;
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #FFD700;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        overflow: hidden;
+    }
+
+        .glitter span {
+            display: block;
+            position: relative;
+            z-index: 2;
+        }
+
+        .glitter::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, #FFF, #FFD700, #FFF);
+            opacity: 0;
+            transition: opacity 0.5s ease;
+            animation: glitter 2s infinite linear;
+        }
+
+        .glitter:hover::before {
+            opacity: 1;
+        }
+
+        .glitter:hover span {
+            visibility: hidden;
+        }
+
+    glitter {
+        0%
+
+    {
+        transform: translate(-25%, -25%);
+    }
+
+    100% {
+        transform: translate(125%, 125%);
+    }
+
+    }
+</style>
+
+<a href="https://github.com/anonimouche-Dev/Ultra_Launcher-multitool/releases/download/Installeur/Ultra_launcher.Installeur.exe" download class="glitter"><span>Download Ultra_launcher installeur.exe</span></a>
